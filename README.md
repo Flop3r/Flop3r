@@ -16,7 +16,6 @@ I'm a second-year IT student at the University of Wrocław in Poland. My journey
 <p align="center">
 <a href="https://fb.com/fr4n3k.9r23l10r2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fr4n3k.9r23l10r2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/franciszek-przeliorz-b0b797244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciszek-przeliorz-b0b797244" height="30" width="40" /></a>
-<a href="https://discord.gg/44floper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="304977623103307788" height="30" width="40" /></a>
 </p>
 
 
