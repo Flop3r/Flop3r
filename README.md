@@ -1,5 +1,4 @@
 <div align="center">
-<h1 align="center">Hello 👋, I'm Franek</h1>
 I'm a second-year IT student at the University of Wrocław in Poland. My journey in the world of IT began when I was in high school, and I aspired to create my first game. Currently, I'm focusing on software development, game development, and expanding my knowledge in the direction of machine learning. Beyond that, I spend my free time creating music and enjoy cooking.
 <br>
 <br>
