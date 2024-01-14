@@ -5,7 +5,7 @@ I'm a second-year IT student at the University of Wrocław in Poland. My journey
 
 
 🔭 I’m currently working on:
-**A team project as part of 'Innovative Nokia Projects'**
+**[A team project as part of 'Innovative Nokia Projects'](https://github.com/BartoszKruszewski/bot-arena)**
 
   👨🏽‍💻 I’m currently learning: **Machine learning, API development**
 
