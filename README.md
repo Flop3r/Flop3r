@@ -5,7 +5,7 @@
   <br>
   <br>
 
-  👨🏽‍💻 I’m currently learning: **Machine learning, API development, React/Javascript**
+  👨🏽‍💻 I’m currently learning: **Machine learning, Databases, API development**
 
   📧 How to reach me: **franciszek@przeliorz.pl**
 
