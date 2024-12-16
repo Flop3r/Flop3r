@@ -1,11 +1,20 @@
 # 👨🏽‍💻 Hey, I'm Franek!
 
-**`Developer and Music Producer`**
+
 
 I'm a Computer Science student with a strong passion for advancing human potential through technology. My goal is to leverage innovative solutions to solve real-world problems and improve lives. When I'm not coding, you’ll probably find me making music and experimenting with new sounds.
 
+<div align="left"> 
+  <a href="mailto:franciszek@przeliorz.pl">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/franciszek-przeliorz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 
+---
 ### ⚒️ Languages and Tools 
 
 
