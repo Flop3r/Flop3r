@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Hey, I'm Franek!
 
-I'm a Computer Science student with a strong passion for advancing human potential through technology. My goal is to leverage innovative solutions to solve real-world problems and improve lives. When I'm not coding, you’ll probably find me making music and experimenting with new sounds.
+I'm a Computer Science student with a strong passion for advancing human potential through technology. My goal is to leverage innovative solutions to solve real-world problems and improve lives. When I'm not coding, you’ll probably find me making music.
 
 
 ### ⚒️ Languages and Tools 
