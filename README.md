@@ -12,7 +12,7 @@ I'm a Computer Science student with a strong passion for advancing human potenti
 
 🔭 I’m currently working on **Academic and Personal Development Projects**
 
-🌱 I’m currently learning **Pytorch, Machine Learning, Neural Networks, AI, Front-end Development**
+🌱 I’m currently learning **Machine Learning, Neural Networks, AI, PyTorch, and Front-end Development.**
 
 ⚡ Hobbies: **Music production**
 
