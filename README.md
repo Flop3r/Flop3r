@@ -6,7 +6,7 @@ I'm a Computer Science student with a strong passion for advancing human potenti
 ### ⚒️ Languages and Tools 
 
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,java,cs,mongodb,azure,vscode,unity,ableton,github,figma,git" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,java,cs,mongodb,azure,vscode,unity,github,figma,git" />
 
 --- 
 
