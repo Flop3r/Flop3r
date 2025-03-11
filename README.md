@@ -6,13 +6,13 @@ I'm a Computer Science student with a strong passion for advancing human potenti
 ### ⚒️ Languages and Tools 
 
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,java,spring,cs,mongodb,azure,vscode,unity,ableton,github,figma,git" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,java,cs,mongodb,azure,vscode,unity,ableton,github,figma,git" />
 
 --- 
 
-🔭 I’m currently working on **Alzhaimer's disease prediction model**
+🔭 I’m currently working on **Academic and Personal Development Projects**
 
-🌱 I’m currently learning **Pytorch, Machine Learning, DataBases, API**
+🌱 I’m currently learning **Pytorch, Machine Learning, Neural Networks, AI, Front-end Development**
 
 ⚡ Hobbies: **Music production**
 
