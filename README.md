@@ -17,7 +17,6 @@ I'm a Computer Science student with a strong passion for advancing human potenti
 ⚡ Hobbies: **Music production**
 
 ---
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Flop3r&hide=issues,contribs&show_icons=true&bg_color=00000000&count_private=true&theme=vue-dark&hide_border=true" />
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flop3r&bg_color=00000000&theme=vue-dark&hide_border=true&langs_count=5&layout=donut" />
 </p>
