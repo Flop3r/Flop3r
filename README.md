@@ -10,11 +10,11 @@ I'm a Computer Science student with a strong passion for advancing human potenti
 
 --- 
 
-🔭 I’m currently working on **Academic and Personal Development Projects**
+🔭 I’m currently working on **Academic Science Project Development.**
 
-🌱 I’m currently learning **Machine Learning, Neural Networks, AI, PyTorch, and Front-end Development.**
+🌱 I’m currently learning **Deep learning and UX/UI design.**
 
-⚡ Hobbies: **Music production**
+⚡ Hobbies: **Music production, gym**
 
 ---
 <p align="left">
