@@ -10,7 +10,7 @@
 
   
 * [weather-api](https://github.com/Flop3r/weather-api) (2023) `[java] [api-design]`: weather spring service based on clean architecture and solid.
-* [chess-game](https://github.com/BartoszKruszewski/bot-arena) (2022) `[java] [opp] [gui]`: deterministic game engine for move validation and state.
+* [chess-game](https://github.com/Flop3r/chess-game) (2022) `[java] [opp] [gui]`: deterministic game engine for move validation and state.
 
 ---
 [email](mailto:franciszek@przeliorz.pl) // [linkedin](https://linkedin.com/in/franciszek-przeliorz) // [github](https://github.com/Flop3r) 
