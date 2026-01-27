@@ -11,11 +11,6 @@
   
 * [weather-api](link) (2023) `[java] [api-design]`: weather spring service based on clean architecture and solid.
 * [chess-game](https://github.com/BartoszKruszewski/bot-arena) (2022) `[java] [opp] [gui]`: eterministic game engine for move validation and state.
-```
- ／l、             
-（ﾟ､ ｡ ７         
-  l  ~ヽ       
-  じしf_,)ノ
-```
+
 ---
 [email](mailto:franciszek@przeliorz.pl) // [linkedin](https://linkedin.com/in/franciszek-przeliorz) // [github](https://github.com/Flop3r) 
