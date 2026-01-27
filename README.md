@@ -1,22 +1,21 @@
-# 👨🏽‍💻 Hey, I'm Franek!
-
-I'm a Computer Science student with a strong passion for advancing human potential through technology. My goal is to leverage innovative solutions to solve real-world problems and improve lives. When I'm not coding, you’ll probably find me making music.
-
-
-### ⚒️ Languages and Tools 
+#### franciszek przeliorz
+###### *CS Student @ University of Wrocław*
 
 
-<img src="https://skillicons.dev/icons?i=python,java,pytorch,sklearn,mongodb,azure,github,git,vscode,figma,unity" />
+#### 📂 core_projects
 
---- 
+* [ferris-8 ](link) (2026) `[rust] [emu]`: chip-8 emulator. cycle-accurate instruction execution.
+* [bot-arena](https://github.com/BartoszKruszewski/bot-arena) (2024) `[python] [multi-agent]`:  collaborative project developed as part of "Innovative Projects by Nokia"
+* [alzheimer-s-disease-prediction](https://github.com/mkarapka/alzheimer-s-disease-prediction) (2025) `[ml]`: efficiency research of baseline ml models for early detection.
 
-🔭 I’m currently working on **Academic Science Project Development.**
-
-🌱 I’m currently learning **Deep learning and UX/UI design.**
-
-⚡ Hobbies: **Music production, gym**
-
+  
+* [weather-api](link) (2023) `[java] [api-design]`: weather spring service based on clean architecture and solid.
+* [chess-game](https://github.com/BartoszKruszewski/bot-arena) (2022) `[java] [opp] [gui]`: eterministic game engine for move validation and state.
+```
+ ／l、             
+（ﾟ､ ｡ ７         
+  l  ~ヽ       
+  じしf_,)ノ
+```
 ---
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flop3r&bg_color=00000000&theme=vue-dark&hide_border=true&langs_count=5&layout=donut" />
-</p>
+[email](mailto:franciszek@przeliorz.pl) // [linkedin](https://linkedin.com/in/franciszek-przeliorz) // [github](https://github.com/Flop3r) 
