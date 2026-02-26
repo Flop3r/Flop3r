@@ -4,7 +4,7 @@
 
 #### 📂 core_projects
 
-* [data-sanatizer](https://github.com/Flop3r/data-sanatizer) (2026) `[nlp] [bert]`: PII anonymization and synthesis tool. prepares safe training datasets for polish-language LLMs.
+* [data-sanatizer](https://github.com/Flop3r/data-sanatizer) (2026) `[nlp] [bert]`: PII anonymizer and synthesizer for safe Polish LLM training data.
 * [ferris-8](https://github.com/Flop3r/ferris-8) (2026) `[rust] [emu]`: chip-8 emulator. cycle-accurate instruction execution.
 * [alzheimer-s-disease-prediction](https://github.com/mkarapka/alzheimer-s-disease-prediction) (2025) `[ml]`: efficiency research of baseline ml models for early detection.
 * [bot-arena](https://github.com/BartoszKruszewski/bot-arena) (2024) `[python] [multi-agent]`:  collaborative project developed as part of "Innovative Projects by Nokia"
