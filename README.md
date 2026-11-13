@@ -1,5 +1,5 @@
 #### franciszek przeliorz
-###### *CS Student @ University of Wrocław*
+###### *Social Informatics @ AGH
 
 
 #### 📂 core_projects
