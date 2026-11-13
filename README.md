@@ -1,5 +1,5 @@
 #### franciszek przeliorz
-###### *Social Informatics @ AGH*
+###### *Social Informatics @ AGH University of Krakow*
 
 
 #### 📂 core_projects
